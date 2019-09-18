@@ -5,6 +5,7 @@
   "publish": true,
   "contracts": {
     "WindingTreeEntrypoint": "WindingTreeEntrypoint",
+    "HotelDirectory": "SegmentDirectory",
     "PlaygroundEntrypoint": "WindingTreeEntrypoint",
     "PlaygroundHotelDirectory": "SegmentDirectory",
     "PlaygroundAirlineDirectory": "SegmentDirectory",
