@@ -6,6 +6,8 @@
   "contracts": {
     "WindingTreeEntrypoint": "WindingTreeEntrypoint",
     "HotelDirectory": "SegmentDirectory",
+    "AirlineDirectory": "SegmentDirectory",
+    "OtaDirectory": "SegmentDirectory",
     "PlaygroundEntrypoint": "WindingTreeEntrypoint",
     "PlaygroundHotelDirectory": "SegmentDirectory",
     "PlaygroundAirlineDirectory": "SegmentDirectory",
